@@ -8,13 +8,13 @@ function Layout({ children }) {
           Library App
         </h1>
         <p className="text-white text-base md:text-lg font-semibold">
-          Erfan test project
+           Test project
         </p>
       </header>
       {children}
       <footer className=" mb-4 w-full mx-auto md:max-w-[1000px] ">
         <div className="w-full md:h-24 h-14 rounded-xl shadow-md shadow-slate-500 bg-slate-900 flex justify-center items-center text-lg md:text-xl font-bold text-slate-500">
-          Developed by Erfan Afzali 😎
+          Developed by Invoker 😎
         </div>
       </footer>
     </>

@@ -34,7 +34,7 @@ function Book({ data, likedListHandler }) {
         </h3>
         <div className="flex justify-start items-center gap-x-4 text-slate-400 text-xs md:text-sm">
           <span>{country}</span>
-          <span>{pages}pages</span>
+          <span>{pages} pages</span>
         </div>
       </div>
     </div>
